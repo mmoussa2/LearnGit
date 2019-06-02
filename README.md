@@ -18,4 +18,5 @@ commit -m"Good commit messages"<br>
 push <br>
 - publish -  share <br>
 log<br>
-- general log for all the commits
+- general log for all the commits<br>
+- to quit from log , have to press "q"<br>
