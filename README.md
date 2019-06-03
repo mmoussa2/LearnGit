@@ -25,4 +25,12 @@ log<br>
 - general log for all the commits<br>
 - to quit from log , have to press "q"<br>
 clone: (https://github.com/mmoussa2/awesome-for-beginners.git) <br>
-- copy from github to computer - repo
+- copy from github to computer - repo<br>
+branch  show a list of all branches on your local <br>
+- -a: show the list for all branches local and remote<br>
+- -d : delete , ex: git branch -d (name of branch)<br>
+- -D : force delete ,ex:git branch -D (name of the branch)<br>
+- (NEw branch name) : add name after branch , ex:git branch (name of the new branch)<br>
+checkout : switch the branches <br>
+merge: merge two branches <br>
+pull : bring the new changes to your local computer 
